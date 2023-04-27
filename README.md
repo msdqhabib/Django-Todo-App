@@ -25,7 +25,7 @@ To get started with Django Todo App, you need to have Python and pip installed o
 
 1. Clone this repository:
 ```python
-git clone https://github.com/msdqhabib/Employee-Management-System-Django.git
+git clone https://github.com/msdqhabib//Django-Todo-App.git
 ```
 2. Navigate to the project directory:
 ```python
